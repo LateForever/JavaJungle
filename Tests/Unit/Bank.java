@@ -1,6 +1,8 @@
 package Tests.Unit;
 
 import java.util.ArrayList;
+import java.lang.String;
+
 
 public class Bank {
 

@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8ca83bf6-22ea-457f-8ae7-d8cd869a5d82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaJungle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Unit/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Unit/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Unit/InsufficientBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Unit/Transfer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaJungle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exer/problems/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exer/problems/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_1/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Unit/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Unit/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/alber/OneDrive/Pulpit/Github/JavaJungle"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
